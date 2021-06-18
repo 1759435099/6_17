@@ -17,7 +17,7 @@
             style="@style/MyRadioStyle"
             android:drawableTop="@drawable/order"
             android:tag="1"
-            android:text="订单" />
+            android:text="自驾游" />
 
         <RadioButton
             android:id="@+id/main_rb2"

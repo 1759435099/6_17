@@ -30,7 +30,7 @@
             android:button="@null"
             android:gravity="center"
             android:padding="10dp"
-            android:text="取车地点" />
+            android:text="导航" />
 
     </RadioGroup>
     <!--自定义指示器-->
